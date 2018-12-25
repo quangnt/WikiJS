@@ -1,0 +1,1 @@
+# Temp repository to setup Wiki.js in local
